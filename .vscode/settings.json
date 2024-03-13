@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "compare": "cpp",
+        "cstdint": "cpp",
+        "stdio.h": "c",
+        "string.h": "c",
+        "lib.h": "c",
+        "stdbool.h": "c",
+        "def.h": "c",
+        "list": "c",
+        "gpio_lib.h": "c",
+        "api.h": "c",
+        "borad_gpio.h": "c"
+    }
+}
